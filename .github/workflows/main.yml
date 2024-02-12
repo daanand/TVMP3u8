@@ -1,0 +1,28 @@
+name: LinkGrabber
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+
+  pull_request:
+    branches: [ main ]
+
+  workflow_dispatch:
+jobs:
+
+  runCode:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Grab Link
+
+        run: |
+          git config --global user.email "shadow@locahost.co.in"
+          git config --global user.name "shadow"
+          chmod +x exec_grabber.sh && ./exec_grabber.sh
+          git add -A
+          git commit -m "./youtubeLink.txt is updated."
+          git push
