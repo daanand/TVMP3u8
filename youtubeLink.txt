@@ -1,0 +1,25 @@
+## FORMAT: <channel name> || <channel id> || <category>
+## <channel name> can be anything - either stream or channel name. It will appear on the EPG though.
+## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
+## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
+
+Polimer News || Polimer.yt || News
+https://www.youtube.com/watch?v=ePVKhbnwXgU
+
+Sun New || SunNews.yt || News
+https://www.youtube.com/watch?v=9M02G5c6x6w
+
+Puthiya thalaimurai News || puthiyathalaimurai.yt || News
+https://www.youtube.com/watch?v=RUzgphgBRzI
+
+Thanthi News || Thanthi.yt || News
+https://www.youtube.com/watch?v=FeweQREkl44
+
+Idhyam Devotional || idhyam.yt || Devotional
+https://www.youtube.com/watch?v=tX_cGNuHMSc
+
+News 18 || news18.yt || News
+https://www.youtube.com/watch?v=mQrZJFyYzlI
+
+India Today || indiatoday.yt || News
+https://www.youtube.com/watch?v=Kzdw3d-U5wI&pp=ygUMZW5nbGlzaCBuZXdz
