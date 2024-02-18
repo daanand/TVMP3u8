@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Polimer.yt" tvg-name="Polimer News" group-title="News", Polimer News
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708312306/ei/knLSZdfwJ4u7_9EPhNSbmA8/ip/20.97.191.241/id/ePVKhbnwXgU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-HO5Wk_uhgdkqxegWsGUmXMb4g4GGZcg3QVkIlU1po/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgK8FMHsDgPswOLeixd7cdkS_oMvkE-MCnHIkzL6EFSfACIEOhd8kswphszKIath78uqfp6VjS2kWUGYUbW7pGefhS/file/index.m3u8
 
 #EXTINF:-1 tvg-id="SunNews.yt" tvg-name="Sun New" group-title="News", Sun New
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708312307/ei/k3LSZeuPD-LLy_sPqJ-w2AE/ip/20.97.191.241/id/9M02G5c6x6w.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-4JaInD35EX4jcwpWeWh0DInrBMeCX7UWmBaT92FuA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAK1TmUsczZkWGEvVv2BU8fvNvoYUjrBoaPPVtXtvmUSfAiEAgv0w1NMQDWKXXtjti_TfwvlhdtqB8XuU76yZ1L9-_Oo%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="puthiyathalaimurai.yt" tvg-name="Puthiya thalaimurai News" group-title="News", Puthiya thalaimurai News
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708312308/ei/k3LSZYbZO6y4_9EPl7Ks6As/ip/20.97.191.241/id/RUzgphgBRzI.26/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f91tzJss_sqD2lZIn1bOPmHbGbJmwcF-639RPrbzL00/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKN_n8aJau_59QfhrPEKsqGqfcLScNsiZzuFCtie5CyUCIA5rm4f5QTrtUBzXnhXFUBqLtfkkG3131pgddem3bN9m/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Thanthi.yt" tvg-name="Thanthi News" group-title="News", Thanthi News
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708312308/ei/lHLSZfSVIffJy_sPxYGm2Ao/ip/20.97.191.241/id/FeweQREkl44.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3JJvagSX7Au6z9Rbsg9KkcMFV3UPsc4wC6B5_QX6Kk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgcTv-1hp7xa7NuWINWwp9CFLyDunhwB-lhahg9IuW9boCICIzqVm5ThdENR7bBPTI9_oTRahNHNhCWXIw1mK_Jv3z/file/index.m3u8
 
 #EXTINF:-1 tvg-id="idhyam.yt" tvg-name="Idhyam Devotional" group-title="Devotional", Idhyam Devotional
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="news18.yt" tvg-name="News 18" group-title="News", News 18
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708312309/ei/lXLSZaWkG6Sb_9EP8Ki86A0/ip/20.97.191.241/id/mQrZJFyYzlI.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0QKiZqWSXqATAls3ObkSDzlRAF5-WNRNIoQWW9I2XU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIge_95MvsEcVV7pl51kWmBN3Wz0cormyEqbPoWuV0DrNoCIQCaQLpyVZsvknDOBtHUhK32moU49wamQPiCZcPc-bPRBQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="indiatoday.yt" tvg-name="India Today" group-title="News", India Today
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708312310/ei/lXLSZYGJPKa5y_sPnbiqwAU/ip/20.97.191.241/id/Kzdw3d-U5wI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4Y1W9hTiM10sJR9kZ9WJXQ5dQFYHYwLN6XA2_LrdCs/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMhnom_lniyzRsevfyAPh3H57Y9eYGVzT06A4zFsYXhuAiEA7MzopWE7Bu89DuwNzbLUPOPCkUcdMIqz1eD3AGtt_bA%3D/file/index.m3u8
